@@ -1,0 +1,16 @@
+body {
+    background: #dfdfdf;
+}
+
+p {
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px;
+    /*quando todos os valores forem iguais, use um só valor*/
+    padding: 2px;
+}
